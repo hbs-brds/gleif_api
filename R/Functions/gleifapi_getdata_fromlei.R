@@ -6,8 +6,7 @@
 #     Flattened data. One row of data than can be appended together to create   
 #     a dataframe of LEIs
 #
-#
-# Contact: BRDS (Caracuzzo, Alex acaracuzzo@hbs.edu)
+# Contact: Baker Research & Data Services (brds@hbs.edu)
 # Repo: https://github.com/hbs-brds
 # Website: https://www.library.hbs.edu/baker-research-data-services 
 

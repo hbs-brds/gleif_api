@@ -7,7 +7,7 @@
 #     (EG: Company name, date issues, LEI Status etc.)
 #
 #
-# Contact: BRDS (Caracuzzo, Alex acaracuzzo@hbs.edu)
+# Contact: Baker Research & Data Services  (brds@hbs.edu)
 # Repo: https://github.com/hbs-brds
 # Website: https://www.library.hbs.edu/baker-research-data-services 
 
